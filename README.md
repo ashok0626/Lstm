@@ -6,3 +6,4 @@ pip install -r requrirements.txt
 
 streamlit run m1.py
 
+https://ashok0626-lstm-m1-svcgg3.streamlit.app/
